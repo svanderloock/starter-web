@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+EdiThis.
 This repository is for showing how Git and GitHub work
 ## Introduction
 Sample project
