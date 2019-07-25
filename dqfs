@@ -1,0 +1,146 @@
+[33mcommit 195bf4fdea95b6ff1e87e2f52b175c16e5e0d7ca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Thu Jul 25 21:07:37 2019 +0200
+
+    "Add some info"
+
+[33mcommit 1225afa6ba8897cc1fe30702160d0fe730458d21[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Thu Jul 25 21:06:09 2019 +0200
+
+    "boodshap"
+
+[33mcommit 0a3acab3d8833d44d3f44f385acb827f7fe393b6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Thu Jul 25 21:04:57 2019 +0200
+
+    adding section
+
+[33mcommit 9580deeb6e47dae6a9d1d0fcaf744489b44eaf21[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Thu Jul 25 21:02:00 2019 +0200
+
+    Message
+
+[33mcommit abeb6b3e0fdaf937587385e31666975a4599f351[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Thu Jun 27 07:04:51 2019 +0200
+
+    log all
+
+[33mcommit c4ebed3f8467e7c3b2f9b2b9de6289661f8bc0fd[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Thu Jun 27 07:02:42 2019 +0200
+
+    adding git ignore file
+
+[33mcommit e21a539c7faf42e425fbfe75ad75944348cbc6de[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 22:04:59 2019 +0200
+
+    sdfdqelf
+
+[33mcommit 14f6ba434b688b742223a94c8fba3efd31583d5e[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 22:03:05 2019 +0200
+
+    qsdfqsdf
+
+[33mcommit 15e69a3eb77e395924165c53c58fe5d16dbf8e27[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:58:30 2019 +0200
+
+    sfqd
+
+[33mcommit f35f1778133c311a6ed6d183dff0d2600d793137[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:54:58 2019 +0200
+
+    fdfqd
+
+[33mcommit f83a17041179f7ff48d0642a38934c204eba2073[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:52:43 2019 +0200
+
+    dqfdsfq
+
+[33mcommit 5b96b6a09e51065c9579ce2926b36e743dc44f2f[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:51:12 2019 +0200
+
+    dfsdfsd
+
+[33mcommit 0b5e2ca2bca5bfc5911fa707d29406d755434fad[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:47:54 2019 +0200
+
+    qsdfqsdf
+
+[33mcommit 1790f98bc23a67170ffb9e891ebe6fafc3b86af4[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:45:46 2019 +0200
+
+    qqsdfef
+
+[33mcommit b97484cff0fc8b744e9dea20198abdfcea175c81[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:41:14 2019 +0200
+
+    sdf
+
+[33mcommit faecd6a1972d3fd48d73479d84cb33224858217c[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:38:42 2019 +0200
+
+    commit
+
+[33mcommit 122bbb955639acee1de72490fa0c88269bbd2156[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:34:14 2019 +0200
+
+    test
+
+[33mcommit 46bfc3cd6ee5b21db7954a5d6e31f03829bd2e7b[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:32:05 2019 +0200
+
+    adding new file
+
+[33mcommit 4d84e46c79767ffda754f495d31b316bd7e4168c[m
+Author: Siegfried <svanderloock@ons.be>
+Date:   Wed Jun 19 21:28:10 2019 +0200
+
+    adding more text
+
+[33mcommit 33350fbf03db72f66aaeff63f68fe587b4b9f357[m
+Author: S.V <svanderloock@ons.be>
+Date:   Wed Jun 12 21:33:34 2019 +0200
+
+    First file
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
